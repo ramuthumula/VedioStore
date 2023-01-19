@@ -1,0 +1,9 @@
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDB\bin\Debug\VedioStoreDB.dll
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDB\bin\Debug\VedioStoreDB.pdb
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDB\bin\Debug\VedioStoreDataLayer.dll
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDB\bin\Debug\VedioStoreDataLayer.pdb
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDB\obj\Debug\VedioStoreDB.csproj.AssemblyReference.cache
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDB\obj\Debug\VedioStoreDB.csproj.CoreCompileInputs.cache
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDB\obj\Debug\VedioStoreDB.csproj.CopyComplete
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDB\obj\Debug\VedioStoreDB.dll
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDB\obj\Debug\VedioStoreDB.pdb

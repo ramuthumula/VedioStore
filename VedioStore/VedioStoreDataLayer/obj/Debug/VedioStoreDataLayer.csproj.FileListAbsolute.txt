@@ -1,0 +1,6 @@
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDataLayer\bin\Debug\VedioStoreDataLayer.dll
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDataLayer\bin\Debug\VedioStoreDataLayer.pdb
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDataLayer\obj\Debug\VedioStoreDataLayer.csproj.AssemblyReference.cache
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDataLayer\obj\Debug\VedioStoreDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDataLayer\obj\Debug\VedioStoreDataLayer.dll
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreDataLayer\obj\Debug\VedioStoreDataLayer.pdb

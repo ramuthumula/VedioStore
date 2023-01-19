@@ -1,0 +1,11 @@
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\bin\Debug\VedioStoreBussLayer.dll
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\bin\Debug\VedioStoreBussLayer.pdb
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\bin\Debug\VedioStoreDataLayer.dll
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\bin\Debug\VedioStoreDataLayer.pdb
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\obj\Debug\VedioStoreBussLayer.csproj.AssemblyReference.cache
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\obj\Debug\VedioStoreBussLayer.csproj.CoreCompileInputs.cache
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\obj\Debug\VedioStoreBussLayer.csproj.CopyComplete
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\obj\Debug\VedioStoreBussLayer.dll
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\obj\Debug\VedioStoreBussLayer.pdb
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\bin\Debug\VedioStoreDB.dll
+C:\Users\thumulra\source\repos\VedioStore\VedioStoreBussLayer\bin\Debug\VedioStoreDB.pdb
